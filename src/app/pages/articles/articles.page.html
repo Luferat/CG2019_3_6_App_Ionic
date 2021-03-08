@@ -10,7 +10,7 @@
 
   <!-- 1) Exibe artigos, um de cada vez (loop) -->
 
-  <div *ngFor="let art of item | async">
+  <div *ngFor="let art of items | async">
     <ion-card class="ion-no-margin ion-margin-bottom" routerLink="/view/{{ art.id }}">
       <img src="{{ art.img }}" alt="{{ art.title }}" title="{{ art.title }}">
       <ion-card-header>
