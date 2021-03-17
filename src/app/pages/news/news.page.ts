@@ -45,7 +45,7 @@ export class NewsPage implements OnInit {
     )
   }
 
-  // 6) Acessa site da nóticia
+  // 6) Acessa site da notícia
   readNews(link: string) {
     window.open(link);
     return false;
