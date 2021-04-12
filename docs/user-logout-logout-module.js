@@ -9,7 +9,7 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\n  <ion-toolbar>\n    <ion-buttons slot=\"start\">\n      <ion-menu-button></ion-menu-button>\n    </ion-buttons>\n    <ion-title>Sair / Logout</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content class=\"ion-padding-horizontal\">\n\n  <h2 *ngIf=\"auth.user | async as user\">\n    Olá {{ user.displayName }}!\n  </h2>\n\n  <p>Clique no botão abaixo para confirmar a saída do aplicativo.</p>\n\n  <ion-button expand=\"block\" color=\"danger\" (click)=\"logout()\">\n    <ion-icon name=\"log-out\" slot=\"start\"></ion-icon>\n    Sair do Aplicativo\n  </ion-button>\n\n</ion-content>");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n  <ion-toolbar>\r\n    <ion-buttons slot=\"start\">\r\n      <ion-menu-button></ion-menu-button>\r\n    </ion-buttons>\r\n    <ion-title>Sair / Logout</ion-title>\r\n    <ion-img src=\"assets/logo01.png\" slot=\"end\" class=\"pages-logo\"></ion-img>\r\n  </ion-toolbar>\r\n</ion-header>\r\n\r\n<ion-content class=\"ion-padding-horizontal\">\r\n\r\n  <h2 *ngIf=\"auth.user | async as user\">\r\n    Olá {{ user.displayName }}!\r\n  </h2>\r\n\r\n  <p>Clique no botão abaixo para confirmar a saída do aplicativo.</p>\r\n\r\n  <ion-button expand=\"block\" color=\"danger\" (click)=\"logout()\">\r\n    <ion-icon name=\"log-out\" slot=\"start\"></ion-icon>\r\n    Sair do Aplicativo\r\n  </ion-button>\r\n\r\n</ion-content>");
 
 /***/ }),
 

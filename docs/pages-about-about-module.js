@@ -137,7 +137,7 @@ AboutPage = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n  <ion-toolbar>\r\n    <ion-buttons slot=\"start\">\r\n      <ion-menu-button></ion-menu-button>\r\n    </ion-buttons>\r\n    <ion-title>Sobre</ion-title>\r\n  </ion-toolbar>\r\n</ion-header>\r\n\r\n<ion-content class=\"ion-padding-horizontal\">\r\n\r\n  <h2>Artigos Recentes</h2>\r\n  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptates aut cumque animi laborum? Tenetur, voluptatum. Voluptatibus, repellendus tempore? Obcaecati voluptatum fuga dicta tenetur blanditiis fugiat voluptatem consequatur molestias quisquam?</p>\r\n\r\n</ion-content>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n  <ion-toolbar>\r\n    <ion-buttons slot=\"start\">\r\n      <ion-menu-button></ion-menu-button>\r\n    </ion-buttons>\r\n    <ion-title>Sobre</ion-title>\r\n    <ion-img src=\"assets/logo01.png\" slot=\"end\" class=\"pages-logo\"></ion-img>\r\n  </ion-toolbar>\r\n</ion-header>\r\n\r\n<ion-content class=\"ion-padding-horizontal\">\r\n\r\n  <h2>Artigos Recentes</h2>\r\n  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptates aut cumque animi laborum? Tenetur, voluptatum. Voluptatibus, repellendus tempore? Obcaecati voluptatum fuga dicta tenetur blanditiis fugiat voluptatem consequatur molestias quisquam?</p>\r\n\r\n</ion-content>\r\n");
 
 /***/ })
 

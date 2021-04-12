@@ -9,7 +9,7 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\n  <ion-toolbar>\n    <ion-buttons slot=\"start\">\n      <ion-menu-button></ion-menu-button>\n    </ion-buttons>\n    <ion-title>Entrar / Login</ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content class=\"ion-padding-horizontal ion-padding-bottom\">\n\n  <h2>Olá!</h2>\n  <p>Logue-se para ter acesso a todos os recursos do aplicativo.</p>\n  <p class=\"ion-text-center\"><small>Você precisa ter uma conta do Google (Gmail).</small></p>\n  <ion-button expand=\"block\" (click)=\"login()\">\n    <ion-icon name=\"logo-google\" slot=\"start\"></ion-icon>\n    Entrar com o Google\n  </ion-button>\n\n</ion-content>");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n  <ion-toolbar>\r\n    <ion-buttons slot=\"start\">\r\n      <ion-menu-button></ion-menu-button>\r\n    </ion-buttons>\r\n    <ion-title>Entrar / Login</ion-title>\r\n    <ion-img src=\"assets/logo01.png\" slot=\"end\" class=\"pages-logo\"></ion-img>\r\n  </ion-toolbar>\r\n</ion-header>\r\n\r\n<ion-content class=\"ion-padding-horizontal ion-padding-bottom\">\r\n\r\n  <h2>Olá!</h2>\r\n  <p>Logue-se para ter acesso a todos os recursos do aplicativo.</p>\r\n  <p class=\"ion-text-center\"><small>Você precisa ter uma conta do Google (Gmail).</small></p>\r\n  <ion-button expand=\"block\" (click)=\"login()\">\r\n    <ion-icon name=\"logo-google\" slot=\"start\"></ion-icon>\r\n    Entrar com o Google\r\n  </ion-button>\r\n\r\n</ion-content>");
 
 /***/ }),
 

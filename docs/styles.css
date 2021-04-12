@@ -1232,5 +1232,10 @@ sub {
 .ion-align-items-baseline {
   align-items: baseline !important;
 }
+.pages-logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 0.5rem;
+}
 
 /*# sourceMappingURL=styles.css.map*/

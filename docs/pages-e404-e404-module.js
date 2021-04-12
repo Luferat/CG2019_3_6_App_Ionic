@@ -22,7 +22,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n  <ion-toolbar>\r\n    <ion-buttons slot=\"start\">\r\n      <ion-menu-button></ion-menu-button>\r\n    </ion-buttons>\r\n    <ion-title>Erro 404</ion-title>\r\n  </ion-toolbar>\r\n</ion-header>\r\n\r\n<ion-content class=\"ion-padding\">\r\n\r\n  <h2 class=\"ion-no-margin\">Oooops!</h2>\r\n  <p>O conteúdo que você está tentando acessar não foi encontrado...</p>\r\n  <ion-button expand=\"block\" routerLink=\"/articles\">\r\n    <ion-icon name=\"newspaper\" slot=\"start\"></ion-icon>\r\n    Página inicial\r\n  </ion-button>\r\n\r\n</ion-content>\r\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n  <ion-toolbar>\r\n    <ion-buttons slot=\"start\">\r\n      <ion-menu-button></ion-menu-button>\r\n    </ion-buttons>\r\n    <ion-title>Erro 404</ion-title>\r\n    <ion-img src=\"assets/logo01.png\" slot=\"end\" class=\"pages-logo\"></ion-img>\r\n  </ion-toolbar>\r\n</ion-header>\r\n\r\n<ion-content class=\"ion-padding\">\r\n\r\n  <h2 class=\"ion-no-margin\">Oooops!</h2>\r\n  <p>O conteúdo que você está tentando acessar não foi encontrado...</p>\r\n  <ion-button expand=\"block\" routerLink=\"/articles\">\r\n    <ion-icon name=\"newspaper\" slot=\"start\"></ion-icon>\r\n    Página inicial\r\n  </ion-button>\r\n\r\n</ion-content>\r\n");
 
 /***/ }),
 
